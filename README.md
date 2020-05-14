@@ -1,0 +1,2 @@
+# SCBfunctionTools
+用于将扎堆的命令快速分隔为多个文件，适合用于SCB-Function格式的红石音乐
